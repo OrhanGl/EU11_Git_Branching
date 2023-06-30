@@ -10,6 +10,10 @@ public class TC002 {
 
         //option to choose
 
+        //Regression test
+
+        //smoke test
+
 
 
 
